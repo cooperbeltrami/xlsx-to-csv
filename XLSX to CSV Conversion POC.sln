@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLSX to CSV Conversion POC", "XLSX to CSV Conversion POC\XLSX to CSV Conversion POC.csproj", "{4EA25B22-C998-4809-B3B1-98B74E05915C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA25B22-C998-4809-B3B1-98B74E05915C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA25B22-C998-4809-B3B1-98B74E05915C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA25B22-C998-4809-B3B1-98B74E05915C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA25B22-C998-4809-B3B1-98B74E05915C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E54787B9-5F18-41F6-803A-CF7355CF7D86}
+	EndGlobalSection
+EndGlobal
